@@ -53,12 +53,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🧾 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajeebbhattacharjee&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/sajeebbhattacharjee">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajeebbhattacharjee&theme=tokyonight" />
+  </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajeebbhattacharjee&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/sajeebbhattacharjee">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajeebbhattacharjee&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajeebbhattacharjee&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -78,7 +83,7 @@
 
 ## 🌱 Fun Fact
 
-> I break things just to fix them better. Debugging is my cardio. 🧠💪
+> I treat my terminal like a playground. If something breaks, I call it "learning." 🧪😄
 
 ---
 
