@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </p>
 
-<p align="center">🚀 Passionate about learning Data Science | Love building apps with Python</p>
+<p align="center">🚀 Passionate Data Science Enthusiast | Exploring the world through data and solving problems with code</p>
 
 ---
 
@@ -83,7 +83,7 @@
 
 ## 🌱 Fun Fact
 
-> I treat my terminal like a playground. If something breaks, I call it "learning." 🧪😄
+> I believe every dataset tells a story — and I'm learning to be its storyteller.
 
 ---
 
